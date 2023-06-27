@@ -1,0 +1,11 @@
+Buổi 6: 
+1. Testcase có @test thì sẽ run
+2. Những hàm dùng để sử dụng trong case test thì không cần @ test
+4. Phím làm đẹp trên mac là : Command + I
+5. Step run của test NG chạy từ trên xuống dưới
+6. Alert: là hiển thị trên nền main bắt buộc phải accept thì mới có thể thao tác trên main
+7. Popup: thì có thể nhấn cancel để có thể tiếp tục thao tác
+8. Muốn bắt dc xpath của alert hiển thị trong 3s : Thực hiện lấy xpath như sau
+==> espect -> chọn Sources -> Thao tác lại lần nữa -> Thực hiện lại lần nữa -> Pause lại -> lấy lại espect bình thường
+->về tab Elements: lấy xpath như bình thường 
+9. Đối với trường date thì tip sẽ là dùng xoá diactive đi để input data vào
